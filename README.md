@@ -1,5 +1,37 @@
-## Hi there 👋
+# Hi, I'm Elaine 👋
 
+I am a Computer Scientist, Educational Robotics instructor, Web Developer and IT consultant with international experience in Brazil, Germany and Latin America.
+
+I am currently expanding my work in Full Stack Development, building projects with Python, Flask, FastAPI, SQLAlchemy, SQLite, REST APIs, OpenAPI/Swagger, HTML, CSS, JavaScript and Docker.
+
+My projects combine software development, education, user experience and practical problem-solving. I am especially interested in web applications, educational technology, robotics, artificial intelligence and digital transformation.
+
+## Featured Projects
+
+- Pet Web: a full stack application for registering users and dogs, with breed-based information and personalized care tips.
+- PetFriendly Dashboard: a web dashboard for finding pet-friendly places, integrating maps, routes, weather data and favorites.
+- PetFriendly API: a FastAPI backend connected to external services such as Google Places, Google Directions and OpenWeather.
+
+  ## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [PetFriendly Dashboard](https://github.com/Elainecbr/petfriendly-dashboard) | Frontend dashboard for finding pet-friendly places with maps, filters, routes, weather and favorites. | HTML, CSS, JavaScript, Google Maps API |
+| [PetFriendly API](https://github.com/Elainecbr/petfriendly-api) | REST API for pet-friendly places, login, favorites and external API integrations. | FastAPI, SQLAlchemy, SQLite, Docker |
+| [Pet Web Frontend](https://github.com/Elainecbr/pet-web-frontend) | SPA for registering users and dogs, displaying breed-based information and care tips. | HTML, CSS, JavaScript, Fetch API |
+| [Pet Web Backend](https://github.com/Elainecbr/pet-web-backend) | Flask backend for managing users, dogs, breeds and CRUD operations. | Python, Flask, SQLAlchemy, Pydantic, SQLite |
+
+## Technologies
+
+Python · Flask · FastAPI · SQLAlchemy · SQLite · REST APIs · OpenAPI · Swagger · HTML · CSS · JavaScript · Docker · Git · GitHub
+
+## Links
+
+- Mini-Portfolio: https://elaine-online.de/
+- LinkedIn: https://www.linkedin.com/in/elainebundscherer/
+- Lattes: http://lattes.cnpq.br/6117297802555475
+
+No momento fazendo pós-graduação na Puc-Rio - Sou Estudante e Professora.
 <!--
 **Elainecbr/Elainecbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
