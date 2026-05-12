@@ -6,22 +6,25 @@ I am currently expanding my work in Full Stack Development, building projects wi
 
 My projects combine software development, education, user experience and practical problem-solving. I am especially interested in web applications, educational technology, robotics, artificial intelligence and digital transformation.
 
-## Featured Projects
 
-- Pet Web: a full stack application for registering users and dogs, with breed-based information and personalized care tips.
+## Featured Projects
+### Pet Web:
+- a full stack application for registering users and dogs, with breed-based information and personalized care tips.
 
   
   <img width="459" height="616" alt="grafik" src="https://github.com/user-attachments/assets/5613bc03-98b3-4cfb-887f-3a4081dfb461" />
 
+-----
+### PetFriendly:
 - PetFriendly Dashboard: a web dashboard for finding pet-friendly places, integrating maps, routes, weather data and favorites.
-
+- PetFriendly API: a FastAPI backend connected to external services such as Google Places, Google Directions and OpenWeather.
+  
  | Project | Dashboard |
  |---|---|
 | <img width="265" height="498" alt="grafik" src="https://github.com/user-attachments/assets/9a74a727-37b7-419f-a18f-2d42e6b267b9" /> | <img width="691" height="582" alt="grafik" src="https://github.com/user-attachments/assets/4d7f04c6-23a7-4252-ad62-f35d30785204" />|
 |🐾|🐾|
-- PetFriendly API: a FastAPI backend connected to external services such as Google Places, Google Directions and OpenWeather.
 
-  ## Featured Projects
+---
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -34,13 +37,16 @@ My projects combine software development, education, user experience and practic
 
 Python · Flask · FastAPI · SQLAlchemy · SQLite · REST APIs · OpenAPI · Swagger · HTML · CSS · JavaScript · Docker · Git · GitHub
 
+## Current Focus
+
+I am currently pursuing a postgraduate specialization in Full Stack Development at PUC-Rio, while continuing to work and study as an educator, developer and technology professional.
+
 ## Links
 
 - Mini-Portfolio: https://elaine-online.de/
 - LinkedIn: https://www.linkedin.com/in/elainebundscherer/
 - Lattes: http://lattes.cnpq.br/6117297802555475
 
-No momento fazendo pós-graduação na Puc-Rio - Sou Estudante e Professora.
 <!--
 **Elainecbr/Elainecbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
