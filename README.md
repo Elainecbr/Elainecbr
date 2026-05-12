@@ -9,7 +9,14 @@ My projects combine software development, education, user experience and practic
 ## Featured Projects
 
 - Pet Web: a full stack application for registering users and dogs, with breed-based information and personalized care tips.
+  <img width="459" height="616" alt="grafik" src="https://github.com/user-attachments/assets/5613bc03-98b3-4cfb-887f-3a4081dfb461" />
+
 - PetFriendly Dashboard: a web dashboard for finding pet-friendly places, integrating maps, routes, weather data and favorites.
+
+ | Project | Dashboard |
+ |---|---|
+| <img width="265" height="498" alt="grafik" src="https://github.com/user-attachments/assets/9a74a727-37b7-419f-a18f-2d42e6b267b9" /> | <img width="691" height="582" alt="grafik" src="https://github.com/user-attachments/assets/4d7f04c6-23a7-4252-ad62-f35d30785204" />|
+|🐾|🐾|
 - PetFriendly API: a FastAPI backend connected to external services such as Google Places, Google Directions and OpenWeather.
 
   ## Featured Projects
