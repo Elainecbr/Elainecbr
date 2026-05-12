@@ -9,6 +9,8 @@ My projects combine software development, education, user experience and practic
 ## Featured Projects
 
 - Pet Web: a full stack application for registering users and dogs, with breed-based information and personalized care tips.
+
+  
   <img width="459" height="616" alt="grafik" src="https://github.com/user-attachments/assets/5613bc03-98b3-4cfb-887f-3a4081dfb461" />
 
 - PetFriendly Dashboard: a web dashboard for finding pet-friendly places, integrating maps, routes, weather data and favorites.
