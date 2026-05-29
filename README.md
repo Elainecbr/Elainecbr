@@ -21,7 +21,7 @@ My projects combine software development, education, user experience and practic
   
  | Project | Dashboard |
  |---|---|
-| <img width="265" height="498" alt="grafik" src="https://github.com/user-attachments/assets/9a74a727-37b7-419f-a18f-2d42e6b267b9" /> | <img width="691" height="582" alt="grafik" src="https://github.com/user-attachments/assets/4d7f04c6-23a7-4252-ad62-f35d30785204" />|
+| <img width="300" height="498" alt="grafik" src="https://github.com/user-attachments/assets/9a74a727-37b7-419f-a18f-2d42e6b267b9" /> | <img width="691" height="582" alt="grafik" src="https://github.com/user-attachments/assets/4d7f04c6-23a7-4252-ad62-f35d30785204" />|
 |🐾|🐾|
 
 ---
